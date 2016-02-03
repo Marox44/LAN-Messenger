@@ -1,0 +1,11 @@
+F:\GIT\LAN Messenger\LAN Messenger\bin\Release\LAN Messenger.exe.config
+F:\GIT\LAN Messenger\LAN Messenger\bin\Release\LAN Messenger.exe
+F:\GIT\LAN Messenger\LAN Messenger\bin\Release\LAN Messenger.pdb
+F:\GIT\LAN Messenger\LAN Messenger\bin\Release\MaroxLib CS.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Release\MaroxLib CS.pdb
+F:\GIT\LAN Messenger\LAN Messenger\obj\Release\LAN_Messenger.MainWindow.resources
+F:\GIT\LAN Messenger\LAN Messenger\obj\Release\LAN_Messenger.Form_log.resources
+F:\GIT\LAN Messenger\LAN Messenger\obj\Release\LAN_Messenger.Properties.Resources.resources
+F:\GIT\LAN Messenger\LAN Messenger\obj\Release\LAN Messenger.csproj.GenerateResource.Cache
+F:\GIT\LAN Messenger\LAN Messenger\obj\Release\LAN Messenger.exe
+F:\GIT\LAN Messenger\LAN Messenger\obj\Release\LAN Messenger.pdb

@@ -1,0 +1,43 @@
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\LAN Messenger.exe.config
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\html\chat.css
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\html\chat.html
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\html\chat.js
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\html\jquery.js
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\LAN Messenger.exe
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\LAN Messenger.pdb
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\BetterListViewExpress.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\Geckofx-Core.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\Geckofx-Winforms.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\MaroxLib CS.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\MRG.Controls.UI.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\BetterListViewExpress.pdb
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\BetterListViewExpress.xml
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\Geckofx-Core.pdb
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\Geckofx-Winforms.pdb
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\MaroxLib CS.pdb
+F:\GIT\LAN Messenger\LAN Messenger\obj\Debug\LAN_Messenger.MainWindow.resources
+F:\GIT\LAN Messenger\LAN Messenger\obj\Debug\LAN_Messenger.Form_log.resources
+F:\GIT\LAN Messenger\LAN Messenger\obj\Debug\LAN_Messenger.Form_options.resources
+F:\GIT\LAN Messenger\LAN Messenger\obj\Debug\LAN_Messenger.Properties.Resources.resources
+F:\GIT\LAN Messenger\LAN Messenger\obj\Debug\LAN Messenger.csproj.GenerateResource.Cache
+F:\GIT\LAN Messenger\LAN Messenger\obj\Debug\LAN Messenger.exe
+F:\GIT\LAN Messenger\LAN Messenger\obj\Debug\LAN Messenger.pdb
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\Awesomium.Core.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\Awesomium.Windows.Controls.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\Awesomium.Windows.Forms.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\Awesomium.Core.xml
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\Awesomium.Windows.Controls.xml
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\Awesomium.Windows.Forms.xml
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\awesomium.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\icudt.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\avcodec-53.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\avformat-53.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\avutil-51.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\libEGL.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\libGLESv2.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\awesomium_process
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\inspector.pak
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\xinput9_1_0.dll
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\pdf_js.pak
+F:\GIT\LAN Messenger\LAN Messenger\obj\Debug\LAN Messenger.csprojResolveAssemblyReference.cache
+F:\GIT\LAN Messenger\LAN Messenger\bin\Debug\html\chat2.html
